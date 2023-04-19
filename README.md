@@ -1,6 +1,9 @@
+# Hi!
+I'm Ben. 
 
 [![wakatime](https://wakatime.com/badge/user/2e487e6a-f6b5-4b01-8335-5984a4e81b23.svg)](https://wakatime.com/@2e487e6a-f6b5-4b01-8335-5984a4e81b23)
 
+## Languages & tools
 
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=fff&style=flat)
 ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
@@ -14,3 +17,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chychiang&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+Solving one leetcode question a day: (starting 04/17/2023)
+[![LeetCode user chychiang](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fchychiang&logo=leetcode&logoColor=yellow)](https://leetcode.com/chychiang/)
